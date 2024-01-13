@@ -1,3 +1,8 @@
+Varios diccionarios dedicados a fuerza bruta para uso exclusivo en Formación de Hacking Ético y en auditorias contratadas por empresas.
+No me hago responsable del mal uso que se les de a los mismos.
+
+
+
 # Diccionarios de: usuarios, passwords, xss, dorks, etc..
 
 <img style="float:left" alt="netspy logo" src="https://github.com/hackingyseguridad/diccionarios/blob/master/25pass.png">
